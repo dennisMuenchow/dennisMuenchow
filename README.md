@@ -1,7 +1,7 @@
 # Willkommen auf meiner GitHub-Website!
 Meine Name ist Dennis Münchow und ich bin Diplom-Ingenieur mit über 5 Jahren Berufserfahrung, der leidenschaftlich daran arbeitet, innovative mobile Anwendungen zu gestalten und technische Herausforderungen zu meistern. Lassen Sie uns gemeinsam an Ihrem nächsten Projekt arbeiten und Ihre App-Ideen in die Realität umsetzen.
 
-![Uploading mockUp_wetterio02.png…]()
+![mockUp_wetterio02](https://github.com/dennisMuenchow/dennisMuenchow/assets/91434597/c935003e-d68a-4704-a778-d6f02a962f4c)
 
 ## Über mich 👨🏻‍💻
 - erfahrener Projektmanager & iOS-Softwareentwickler
